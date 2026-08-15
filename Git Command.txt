@@ -1,0 +1,157 @@
+| Command                         | Purpose                            |
+| ------------------------------- | ---------------------------------- |
+| `ls`                            | Show files                         |
+| `cd folder`                     | Enter folder                       |
+| `pwd`                           | Show current location              |
+| `git config --global --list`    | Show Git configuration             |
+| `git init`                      | Create Git repository              |
+| `git remote -v`                 | Show GitHub remote                 |
+| `git remote add origin URL`     | Connect GitHub repository          |
+| `git status`                    | Check current state                |
+| `git add .`                     | Stage changes                      |
+| `git commit -m "message"`       | Create version                     |
+| `git log --oneline`             | View commit history                |
+| `git diff`                      | See current changes                |
+| `git diff A B`                  | Compare commits                    |
+| `git push`                      | Upload commits                     |
+| `git push -u origin main`       | First push/tracking setup          |
+| `git pull`                      | Get and integrate remote changes   |
+| `git fetch`                     | Get remote information             |
+| `git branch`                    | List branches                      |
+| `git branch name`               | Create branch                      |
+| `git switch name`               | Switch branch                      |
+| `git switch -c name`            | Create + switch                    |
+| `git branch -d name`            | Delete local branch                |
+| `git push origin --delete name` | Delete remote branch               |
+| `git clone URL`                 | Download repository for first time |
+
+
+# Git & GitHub Learning Checklist
+
+## ✅ Completed
+
+1. Git vs Git Bash
+2. Git Installation & Setup
+3. Git Configuration
+4. Git Bash Basic Commands
+5. `git init`
+6. `git status`
+7. `git add`
+8. `git commit`
+9. Commit Messages
+10. Git Commit History
+11. `git log --oneline`
+12. `git diff`
+13. Comparing Commits
+14. GitHub Repository Creation
+15. Connecting Local Repository to GitHub
+16. `git remote`
+17. `origin`
+18. `git push`
+19. `git push -u origin main`
+20. `git pull`
+21. Local Repository vs GitHub Repository
+22. Git Branches
+23. Creating Branches
+24. Switching Branches
+25. Feature Branches
+26. Local vs Remote Branches
+27. Pushing Feature Branches
+28. Pull Requests
+29. Pull Request Review
+30. Pull Request Merge
+31. Updating Local `main` After PR Merge
+32. Deleting Local Branches
+33. GitHub/Remote Branch Deletion
+34. Basic Git Workflow
+35. Basic GitHub Team Workflow
+36. `git clone` — Concept
+37. `git fetch` — Concept
+
+---
+
+# ❌ Not Completed — Learn in This Order
+
+38. **Merge Conflicts**
+
+39. **Resolving Merge Conflicts**
+
+40. **Pull Request Reviews in Detail**
+
+41. **Pull Request Merge Strategies**
+
+* Merge Commit
+* Squash and Merge
+* Rebase and Merge
+
+42. **`git fetch` — Practical**
+
+43. **`git clone` — Practical**
+
+44. **`git restore`**
+
+45. **`git reset`**
+
+46. **`git revert`**
+
+47. **`git stash`**
+
+48. **Git Rebase**
+
+49. **Interactive Rebase**
+
+50. **`.gitignore`**
+
+51. **Git Tags**
+
+52. **GitHub Releases**
+
+53. **GitHub Issues**
+
+54. **GitHub Labels**
+
+55. **GitHub Milestones**
+
+56. **GitHub Projects**
+
+57. **GitHub Collaborators**
+
+58. **GitHub Organizations & Teams**
+
+59. **GitHub Repository Permissions**
+
+60. **Branch Protection Rules**
+
+61. **Required Pull Request Reviews**
+
+62. **CODEOWNERS**
+
+63. **SSH Authentication**
+
+64. **Personal Access Tokens**
+
+65. **GitHub Secrets**
+
+66. **GitHub Actions**
+
+67. **CI/CD Basics**
+
+68. **GitHub Security Features**
+
+69. **`git cherry-pick`**
+
+70. **`git reflog`**
+
+71. **Detached HEAD**
+
+72. **Remote-Tracking Branches**
+
+73. **Upstream Branches**
+
+74. **Git Worktrees**
+
+75. **Git Submodules**
+
+76. **Advanced Git Troubleshooting**
+
+77. **Professional Git/GitHub Team Workflow**
