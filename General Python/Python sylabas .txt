@@ -1,0 +1,69 @@
+Phase 1 — Python Fundamentals
+
+Goal: Become comfortable writing Python code.
+
+Python introduction & setup
+Variables
+Data types
+int
+float
+str
+bool
+Input & output
+Operators
+if / elif / else
+for loops
+while loops
+Lists
+Tuples
+Sets
+Dictionaries
+String operations
+Functions
+Basic error handling
+Phase 2 — Python for Data Analysis
+
+This is where Python becomes directly useful for your career.
+
+List/dictionary comprehensions
+Working with files
+CSV files
+import
+Modules
+NumPy basics
+Pandas
+DataFrames
+Series
+Reading CSV/Excel files
+Selecting/filtering data
+Sorting
+Missing values
+Duplicates
+Grouping and aggregation
+Merging/joining DataFrames
+Date/time data
+Data cleaning
+Phase 3 — Data Visualization
+Matplotlib
+Line charts
+Bar charts
+Histograms
+Scatter plots
+Box plots
+Customizing charts
+Choosing the correct visualization
+Phase 4 — Real Data Analyst Work
+Exploratory Data Analysis — EDA
+Descriptive statistics
+Correlation
+Finding trends
+Finding outliers
+Cleaning messy datasets
+Business questions → Python analysis
+Creating an analysis report
+Python data-analysis projects
+🎯 Your learning order
+
+I recommend:
+
+SQL → Python → Excel → Power BI → Projects → GitHub → Internship applications
