@@ -63,3 +63,4 @@ quantity = int(input("Quantity: "))
 
 price = float(input("Price: "))
 salary = float(input("Salary: "))
+

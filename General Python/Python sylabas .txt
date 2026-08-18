@@ -3,6 +3,7 @@ Phase 1 — Python Fundamentals
 Goal: Become comfortable writing Python code.
 
 Python introduction & setup
+input and user inpu and all abou inpus 
 Variables
 Data types
 int
