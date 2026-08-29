@@ -23,3 +23,36 @@ print("the" in word)
 word = "Python"
 
 print("Pee" not in word)
+
+########
+world="banana"
+count =0
+for ch in word:
+    if ch=="a":
+        count+=1
+print(count)
+
+######
+
+word = "Python"
+print(word[0])
+
+##
+word = "Python"
+print(word[-1])
+
+word = "Python"
+print(word[1:4])
+
+word = "banana"
+print(word.count("a"))
+
+text = "apple banana mango"
+
+print(text.split())
+
+## palindrome 
+word = "madam"
+printm=(word[::-1])
+print(printm)
+
