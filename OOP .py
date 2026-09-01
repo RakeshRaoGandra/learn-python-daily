@@ -22,3 +22,33 @@ class Madam:
 student =Madam("nandini",234)
 student.ece()
 student.student_details()
+
+#
+
+class Vehicle:
+
+    def __init__(self, brand, model, year):
+        self.brand = brand
+        self.model = model
+        self.year = year
+
+
+    def start(self):
+        print(f"{self.brand} {self.model} is starting")
+
+    def stop(self):
+        print(f"{self.brand} {self.model} is stopping")
+
+
+car = Vehicle("Toyota", "Camry", 2025)
+
+car.start()
+car.stop()
+###
+class room:
+    def __init__ (self,beds,plates,bathromm):
+        self.beds=beds
+        self.plates=plates
+        self.bathroom=bathromm
+    def beds(self):
+        print(f"bead bedore eleven o clook and it must sevven to eight of sleep")
